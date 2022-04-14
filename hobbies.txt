@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,21 +19,14 @@
 
  <h1>Hobbies</h1>
     <ul>
-        <li>To learn new Programming languages</li>
-        <li>To research about different topics</li>
-        <li>To sharpen up the skills</li>
-        <li>To play video games</li>
-        <li>Listeing Music</li>
+        <li>learn new Programming languages</li>
+        <li>research about different topics</li>
+        <li>sharpen up skills</li>
+        <li>Listening to Music</li>
         
       </ul>  
       <br>
-      
-      <img src="1.png" style="width:100px;height:100px;">&nbsp;&nbsp;
-      <img src="2.jpg" style="width:100px;height:100px;">&nbsp;&nbsp;
-      <img src="3.jpg" style="width:100px;height:100px;">&nbsp;&nbsp;
-      <img src="4.jpg" style="width:100px;height:100px;">&nbsp;&nbsp;
-      <img src="5.jpg" style="width:100px;height:100px;">&nbsp;&nbsp;
-      
+            
 
 </body>
 </html>
