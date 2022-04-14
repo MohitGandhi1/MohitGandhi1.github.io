@@ -1,6 +1,3 @@
-# IWT lab by Mohit Gandhi
-
-<!DOCTYPE html>
 <html>
 <body>
 
