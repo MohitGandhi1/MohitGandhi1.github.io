@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Table</title>
+    <style>
+        table {background-color:cadetblue; color: rgb(255, 255, 255);}
+    </style>
+</head>
+ 
+<body>
+    <h1><center>Personal Information</center></h1>
+    <table id="abc" border="6">
+        <tr align="center">
+            <th style="background-color: aliceblue;"><img src="download.png" width="120" height="120"></th>
+            <td>
+                <div><b>Name:</b>User1</div>
+                <div><b>E-mail:</b>abcd@gmail.com</div>
+                <div><b>Contact No.:</b>1234567890</div>
+            </td>
+            <td colspan="3"><b>Address:</b>India,</td>
+        </tr>
+        <tr>
+            <td style="background-color: chocolate;"colspan="5" align="center">
+                <hr>Objective:
+                <hr>
+                
+            </td>
+            <tr>
+                <td style="background-color:burlywood;" colspan="5">
+                    <ul type="disc">
+                        <li>To become Gamer</li>
+                        <li>To get good marks</li>
+                        <li>To become a top coder</li>
+                    </ul>
+                </td>
+            </tr>
+        </tr>
+        <tr>
+            <td style="background-color:chocolate;" colspan="5" align="center">Educational Profile:
+                <hr>
+            </td>
+ 
+        </tr>
+        <tr>
+            <td style="background-color: chocolate;"align="center">Exam</td>
+            <td style="background-color: chocolate;"align="center">Board/Visitor</td>
+            <td style="background-color: chocolate;"align="center">Institution</td>
+            <td style="background-color: chocolate;"align="center">Year</td>
+            <td style="background-color: chocolate;"align="center">Percentage/GCPA</td>
+        </tr>
+        <tr>
+            <td style="background-color: burlywood;"align="center">IWT</td>
+            <td style="background-color: burlywood;"align="center">KUK</td>
+            <td style="background-color: burlywood;"align="center">P.I.E.T</td>
+            <td style="background-color: burlywood;"align="center">2nd year</td>
+            <td style="background-color: burlywood;"align="center">87</td>
+        </tr>
+        <tr>
+            <td style="background-color: chocolate;"colspan="5" align="center">
+                <hr>Hobbies
+                <hr>
+                
+            </td>
+        <tr>
+            <td style="background-color:burlywood;" colspan="5">
+                <ul type="disc">
+                    <li>Gaming</li>
+                    <li>Listening Music</li>
+                    <li>Programming</li>
+                </ul>
+            </td>
+        </tr>
+        </tr>
+        <tr>
+            <td style="background-color:chocolate;"colspan="5" align="center">
+                <hr>Declaration
+                <hr>
+            </td>
+        </tr>
+    </table>
+    <p>Place: At LAB
+    <div>Time: 15:52</div>
+    </p>
+</body>
+ 
+</html>
