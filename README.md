@@ -1,11 +1,10 @@
 # IWT lab by Mohit Gandhi
+
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>The button Element</h1>
-
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+<button type="button" onclick="alert('Hello world!')">My Leanring</button>
  
 </body>
 </html>
